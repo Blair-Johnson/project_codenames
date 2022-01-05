@@ -1,0 +1,2 @@
+nouns: http://www.desiquintans.com/nounlist
+adjectives: https://patternbasedwriting.com/elementary_writing_success/list-4800-adjectives/
